@@ -1,4 +1,4 @@
-# 🎯 Mini Guessing Game
+# 🎯 Guessing Game
 
 A collection of interactive, terminal-based Python games – all in one file (`miniGame.py`). Challenge your brain with guessing, math, memory, and emoji puzzles!
 
