@@ -16,4 +16,4 @@ A collection of interactive, terminal-based Python games – all in one file (`m
 2. Run the game using:
 
 ```bash
-python miniGame.py
+python Game.py
