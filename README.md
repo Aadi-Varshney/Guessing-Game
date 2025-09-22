@@ -1,6 +1,6 @@
 # 🎯 Guessing Game
 
-A collection of interactive, terminal-based Python games – all in one file (`miniGame.py`). Challenge your brain with guessing, math, memory, and emoji puzzles!
+A collection of interactive, terminal-based Python games – all in one file (`Game.py`). Challenge your brain with guessing, math, memory, and emoji puzzles!
 
 ## 🧩 Games Included
 - **Number Guessing** – Guess a secret number in limited attempts.
